@@ -16,3 +16,4 @@ Repository: CRAN
 Packaged: 2015-03-05 22:02:15 UTC; rvaradh1
 NeedsCompilation: no
 Date/Publication: 2015-03-06 00:44:37
+RoxygenNote: 6.0.1
